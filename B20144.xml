@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles the Second, by the grace of God, King of England, Scotland, France and Ireland King, defender of the faith, &amp;c. To all and singular archbishops, bishops, arch-deacons, deanes, and their officials ... Whereas a great number of our good subjects peaceably following their employments at sea, have been seen lately taken by the Turkish pyrates, under whom they now remain in most cruel, and inhumane bondage ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II).</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20144</idno><idno type="EEBO-CITATION">99888562</idno>
+  <idno type="VID">194197</idno>
+  <idno type="EEBO-PROQUEST">2240902025</idno>
+  
+            <idno type="STC">Wing C3610A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[393]</idno>
+            <idno type="STC">ESTC R231048</idno>
+            <idno type="PROQUEST">ocm99888562</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888562e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194197)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[394])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles the Second, by the grace of God, King of England, Scotland, France and Ireland King, defender of the faith, &amp;c. To all and singular archbishops, bishops, arch-deacons, deanes, and their officials ... Whereas a great number of our good subjects peaceably following their employments at sea, have been seen lately taken by the Turkish pyrates, under whom they now remain in most cruel, and inhumane bondage ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II).</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Milbourn dwelling in Jewen-Street,,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno. Dom. 1670..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A committee of Privy Council reported 27 July that £30,000 must be raised to redeem English captives. A liberal collection is to be taken up and sent to the Bishops and Archbishops, who will consult with the Aldermen of London as to its expenditure.--Steele.</note>
+                  <note>Initial; Steele notation: Arms 80. rudely  We  li-.</note>
+                  <note>Imperfect: cropped at head, with loss of part of Royal Arms.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Charities --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Pirates --  Turkey --  Early works to 1800.</term>
+               <term type="topical_term">Ransom --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:194197:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>partial image of the royal blazon flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>HARLES The Second, by the Grace of God KING of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi> To all and singular Arch-Bishops, Bishops, Arch-Deacons, Deans, and their Officials, Parsons, Vicars, Curates, and all other Spiritual Persons; And also to all Justices of the Peace, Mayors, Sheriffs, Bayliffs, Constables, Church-wardens, Chappel-wardens, Headboroughs, Collectors for the Poor, and their Overseers; And also to all Officers of Cities, Boroughs, and Towns Corporate, and to all other our Officers, Ministers and Subjects, whatsoever they be (as well within Liberties as without) to whom these presents shall come, <hi>Greeting.</hi>
+               </salute>
+            </opener>
+            <p>
+               <hi>Whereas</hi> a great number of our Good Subjects peaceably following their Employments, at Sea, have been lately Taken by the <hi>Turkish Pyrates,</hi> under whom they now remain in most cruel, and inhumane Bondage; who by their Friends and Relations have humbly besought Us to take their miserable and deplorable Estates into Our Princely consideration, and that We would be Gratiously pleased to grant unto them Our Letters Patents under Our great Seal of <hi>England,</hi> to License, and Authorise them to Ask and Receive the Almes and Charitable Benevolence of all Our loving Subjects, within this Our Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweede.</hi>
+            </p>
+            <p>
+               <hi>Whereupon,</hi> Out of Our tender Compassion of their Sufferings We readily referred the same to a Committee of Our Privy Council, to take the Premises in<g ref="char:EOLhyphen"/>to more particular consideration, and to represent to Us the most effectual means for the Redemption of Our said distressed Subjects from Slavery: Which said Committee, upon the Seven and Twentyeth of <hi>July</hi> last past, at Our Council-Board (Our Self being present) did Report unto Us, That as well by several Cer<g ref="char:EOLhyphen"/>tificates of the several Ships taken, of approved Authority and Truth, as by several Letters from the respective Masters, Officers, and Sea-men now in Slavery, to their Friends and Relations here in <hi>England,</hi> it doth evidently appear, That the said Poor Christian-Slaves, Assaulted by these inhumane Thieves and Pyrates, did in their several Fights behave themselves with Remarkable Valour and Courage, to the great Honour of their Country, and their Religion; diverse of them not Yeilding to the Enemy till they had been often Boarded, and the Enemies Slain upon their Decks, and till their own Ships were Fired about them; when being forced to cast themselves into the Sea, to avoid the Devouring Flames, were Seized on by these Barbarous Enemies, with whom they now lead a Life much Worse than Death; bought and sold like Beasts in the Market, held to most insupportable Service, and Fed only with a slender Allowance of Bread and Water; many of them Chained to their Work, and Beaten daily with a certain number of Stripes (as their accustomed Cruelty is) upon the Soals of their Feet; and Evil entreated by many other Acts of <hi>Turkish</hi> Cruelty, which the Fierceness of their Natures, and the Bloody Principles of their Religion prompt them to: But above all, that accursed Tyranny used towards the Souls of these miserable Wretches can never sufficiently be Bewailed, who are daily Assaulted by these Professed Enemies of Christ, to turn Apostates from the Christian Faith; and to Deny that only Name given under Heaven by which they can be Saved: Whereby they lie under a continual Temptation to Abandon their Religion, that they may obtain their Liberty. And it appearing al<g ref="char:EOLhyphen"/>so, by several Lists and Accounts produced, That the Number of these Poor Slaves is so Great, and the Demands of their several Unreasonable Taskmasters so High, that the Money needful for the Accomplishing their Redemption, is represented by the said Committee, to Amount to the Sum of Thirty Thousand Pounds; which Sum our said Distressed Subjects are utterly unable to procure of themselves. And further Representing to Us, That the most probable Way for a Speedy Procuring and Collecting the same, will be by Recommending this most Christian and Cha<g ref="char:EOLhyphen"/>titable Work to all our loving Subjects of this Kingdom, whose Hearts God hath touched with a Fellow-feeling of their Brethrens Afflictions, by Our Letters Patents appointing Extraordinary Wayes and Rules for Collection of the same upon such an Extraordinary Occasion, We taking the Premises into Our Princely consideration, out of Our tender Commiseration of Our poor Christian-subjects sufferings Abroad, and the inevitable Misery and Poverty that will befall all their helpless Families at Home; And for a just Encouragement to all Our goods Subjects, to continue with Courage and Perseverance in the Profession of the true Christian Faith, against all Implacable and Barbarous Enemies of the Same, are Gratiously pleased to condescend to their Petition.</p>
+            <p>
+               <hi>Know Ye Therefore,</hi> That of Our especial Grace and Princely compassion, We have given and granted, and by these Our Letters Patents, under our Great Seal of <hi>England,</hi> Do give and grant unto our said poor Distressed Subjects, the Captives aforesaid, or to their Agents, or other Persons, who shall be lawfully Authorised on this behalf, full Power, License and Authority, to Ask, Gather, Receive, and Take (according to the Rules hereafter specified in these presents) the Almes and Charitable Benevolence of all Our loving Subjects (not only House-holders, but also Servants, Strangers, and others Inhabiting within all and every the Counties, Cities, Boroughs, Towns-Corporate, Cinque-Ports, Priviledged places, Parishes, Chappelries, Towns, Villages, Hamlets, and all other places whatsoever in our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> &amp; Town of <hi>Berwick</hi> upon <hi>Tweede,</hi> for and towards the redemption and relief of the said poor Captives.</p>
+            <p>
+               <hi>Wherefore,</hi> We require and command all and singular the Arch-Bishops, and Bishops of all and singuler the Provinces and Diocesses within Our said Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> that they, and every of them, do give a particular Recommendation and Command to all the Parsons, Vicars, and Curates, of all and every the Parishes within their respective Diocesses, for the Advancement of this so Pious a Work; Unto whose Paternal care and inspection we chiefly Recommend the pursuit of these Our Letters Patents, not doubting but they who lately after Our happy Return, of their own free Motion, and at their great Charge, did so Worthily Redeem all Our poor Subjects out of <hi>Turkish-Slavery,</hi> taken in the time of the late Usurpation, will be ready with all Zeal, and Powerful Importunity, to Exhort others to follow their good Example: And especially to Stir up their inferiour Clergy to give effectual Arguments to their Flocks, both by Exhortation and Example, for a Liberal Contribution towards the Redemption of these Miserable Wretches, whose Cases are much more Deplorable than theirs who ordina<g ref="char:EOLhyphen"/>rily seek for Relief by Collections of this nature, having not only lost their Goods and Lively-hoods by the Rapine of the Enemy, but are also Bereft of their Liberty, and Groan under most Cruel Bondage, destitute of all Necessaries for their support, and daily Tortured by the Merciless Cruelty of these Pyrates, Theives, and Infidels, who endeavour and design not only their Temporal, but the Eternal Ruine both of their Souls and Bodies. And the said Parsons, Vicars, and Curates, upon the next Lords Day after that the true Copies of these Our Letters Patents shall be delivered unto them, Deliberately and Effectually to publish and declare the Tenour of these Our Letters Patents unto our said loving Subjects, and Earnestly to Exhort, Perswade, and Stir them up in the Bowels of Jesus Christ, as fellow-feeling members of the same Mystical Body, to extend their Liberal Contributions towards the said Pious and Charitable purposes. And the Church-wardens are also Required upon the Week-days following the said Lords Day, to Ask, and Receive, from all the Parishoners, as well Masters, and Mistrisses, and Servants, as others in their Families, their Christian and Charitable Contributions: And to take the Names of all those which shall Contribute thereunto, and the Sum or Sums by them given respectively fairly Written; and after such Collection made, they are also in the presence of the respective Inhabitants, on the next Lords Day following, to Subscribe the whole Sum upon the said Briefs under their Hands; and also to enter them into Books of Accounts for the said Parishes and Chappelries respectively, together also with the Names of the Persons contributing, and the Sums contributed, within the Counties, Cities, Towns, Parishes and Chappelries respectively, where-in, and the time when such Sums are gathered: And they are also to deliver the same to the said Parsons, Vicars or Curates respectively, who are to take care that the Church-wardens do their Duties in the Premisses, or otherwise to certifie their Neglect to the Bishop of the Diocess, that the same may be Transmitted to Our Council, who will take care that the Offender be Punished according to his De<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ert. And the said Parsons, Vicars, and Curates respectively, are to send the said Monies with a Duplicate of the said Accounts, unto the respective Bishops of the several Diocesses, by such means as they shall Direct, to be by them disposed as herein afterwards is declared. And for the better performance of this so Charitable a Work, the said Parsons, Vicars, and Curates respectively, are desired (where conveniently they may) to accompany the Church-wardens in Asking and Receiving the said Contributions, or procure some other of the chief Inhabitants in the said Parishes respectively to do the same. And Our further Will and Pleasure is, and We do hereby, for the better advancement of these Our Pious intentions, Will, Require, and Command, the Bishops, and all other Dignitaries of the Church, that they do make their contribu<g ref="char:EOLhyphen"/>tions distinctly, to be returned in the several Provinces to the respective Arch-Bishops of the same. And also that all the Judges and Officers of all and every Our respective Courts, and the Pro<g ref="char:EOLhyphen"/>fessors of the Law, both Common and Civil; And all Students of the Innes of Court and Chancery, by their several Bodies and Societies, shall contribute their Free and Charitable benevo<g ref="char:EOLhyphen"/>lence in such Manner and Order as shall be directed and appointed by Our Self in Council.</p>
+            <p>
+               <hi>And Forasmuch</hi> as the Merchants of this Our Kingdom, and the several Traders at Sea, who are chiefly concerned in the accomplishing this Charitable work, cannot conveniently contribute among themselves, by reason they are not United in any distinct Bodies and Societies: Therefore, that no means may be omitted that may help towards the Redemption of Our said Subjects from their miserable Captivity, We do earnestly Admonish, Exhort, and Recommend, that Our said Merchants and Traders at Sea, in their several places of their Aboad, do not only Ad<g ref="char:EOLhyphen"/>vance, and by all means promote this Pious wo k among their Neighbours and Friends, but also that they themselves in an Exemplary, and Extraordinary proportion, manifest their own cha<g ref="char:EOLhyphen"/>rity in this behalf. To which purpose We further Will and Require, That the several Parsons, Vicars, and Curates, in drawing up the Accounts of the Collections before Directed, do alwayes observe to set the Contributions of the several Merchants and Traders at Sea, within their respective Parishes, distinct by themselves, at the head of their Account, with their Names, and their Sums so contributed by each of them, to be returned up with the rest to the several Arch-Bishops and Bishops as aforesaid. And to the end that all possible Encouragement in this behalf may be given to the said Merchants, and all other Our loving Subjects of this Kingdom of what Dignity, Degree, or Quality soever, We further declare, that We Our Self are gratiously pleased to Contribute distinctly: And that Our Council, and all Our Court shall do the like towards the accomplishing of this Pious and Charitable work, so acceptable to God and all good Christians.</p>
+            <p>
+               <hi>And Lastly,</hi> Our will and pleasure is, and We do hereby Recommend to the care and circumspection of all and singuler the Arch-Bishops and Bishops of the said respective Provinces and Diocesses, that it be so ordered, that the Collection and return of the said Monies may be without Charge, or any Deduction to be made out of the contributions collected for the same. And also, that the Monies collected by vertue hereof, be returned by the said Arch-Bishops and Bishops, and other Our Officers and Ministers, who are hereby Impowred to receive the same, with all the Copies and Accounts subscribed under their Hands, into the Chamber of Our City of <hi>London,</hi> to be imployed for the Redemption of the said poor Captives, according to such Orders and Directions as Our Self in Council shall give for the disbursing and disposing of the same. And that the Court of Aldermen do hold diligent Correspondence with the Bishops, and the several Countries concerning the returning, and truly paying in of the aforesaid Monies; which said Court of Aldermen, are also further from time to time as need shall require, to give an Account to us in Our Council, of all Passages and Proceedings concerning the Premises, for the more speedy and effectual Prosecution of the ends of these Our Letters Patents. Any Law, Statute, Act, Ordinance, or Provision heretofore made to the contrary hereof in any wise notwithstanding.</p>
+            <p>
+               <hi>In Witness</hi> whereof We have caused these Our Letters to be made Patents for the space of Two whole Years next after the Date hereof to endure, and no longer.</p>
+            <closer>
+               <dateline>
+                  <hi>Witness</hi> Our Self at <hi>Westminster,</hi>
+                  <date>the Tenth day of <hi>August</hi> in the Two and Twentieth Year of Our Reign.</date>
+               </dateline>
+               <signed>DAWE.</signed>
+               <lb/> God Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Thomas Milbourn</hi> dwelling in <hi>Jewen-Street,</hi> Anno. Dom. 1670.</p>
+         </div>
+         <div type="license">
+            <p>With Priviledg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
